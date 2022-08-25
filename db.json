@@ -1,0 +1,25 @@
+{
+  "employees": [
+    {
+      "name": "Dhairya Mehta",
+      "email": "dhairya@quix.com",
+      "company": "Quix Solution",
+      "city": "Vadodara",
+      "id": 1
+    },
+    {
+      "name": "Krunal Shah",
+      "email": "krunal@quix.com",
+      "company": "Quix Solution",
+      "city": "Baroda",
+      "id": 2
+    },
+    {
+      "name": "Krupa Patel",
+      "email": "krupa@quix.com",
+      "company": "Promact",
+      "city": "Vadodara",
+      "id": 3
+    }
+  ]
+}
